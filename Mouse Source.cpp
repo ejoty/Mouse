@@ -17,7 +17,7 @@ int getKey(int input){
 			return input;
 	}
 }
-
+// a change
 int speedBoost(bool boosting, int *speed){
 	int hungerTickSpeed;
 	if (boosting){
